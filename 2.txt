@@ -12,5 +12,3 @@ hot fix
 task-2
 
 hotfix-2
-
-hi hi hi
